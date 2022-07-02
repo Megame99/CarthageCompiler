@@ -1,0 +1,19 @@
+? SOFIA Example
+  The program is "lexically" correct
+  and should not generate any error ?
+#VAR#{
+	#RUN# {
+	}
+	!CODE? { 
+		1.2.3
+		!WRITE#("Hello world!");
+		!Float$
+		!String@ "String testing ... 123"
+		#KeyTest#
+		#WHILE#
+		2.5
+		'aa'
+
+		'a'
+	}
+}

@@ -1,0 +1,17 @@
+? CARTHAGE Example
+  The program is "lexically" correct
+  and should not generate any error ?
+#prime#{
+
+     #VAR#
+	!varPrice@ = "variable"; 
+	!money$ = 0.1;
+     #RUN#
+        #output#(!i#);
+	!intV# = !t# + 5 * 9 / 4;
+	!floatV$ = !math$ / 3.3 * 2.5;
+	#input#(!num#);
+	!aString@ = "Hannibal Carthage";
+     #YIELD#
+	!returnInt#;
+} 

@@ -1,0 +1,12 @@
+? Carthage Example
+  The program is "lexically" correct
+  and should not generate any error ?
+#prime#{
+
+     #VAR#
+
+     #RUN#
+               #output#("Hello World!");
+     #YIELD#
+}
+
